@@ -1,0 +1,3 @@
+Enabled,Name,Message,Severity,Source,Type,Exception
+ON,Unknown,"""Unknown""",ExceptionLevel.FATAL,ExceptionSource.ANY,ExceptionType.UNKNOWN,java.lang.IllegalStateException.class
+ON,MessageParsingError,"""Message parsing error.""",ExceptionLevel.FATAL,ExceptionSource.ANY,ExceptionType.MESSAGE,java.lang.IllegalStateException.class
